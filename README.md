@@ -1,5 +1,5 @@
 # Filterlists list
-A list of public filterlists, sorted by purpose.<br>
+A list of public filterlists, sorted by purpose. [View the full list](https://github.com/iam-py-test/filterlists_list/blob/main/filterlists.md) <br>
 
 
 ## How does it work?
