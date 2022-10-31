@@ -15,6 +15,15 @@ Maintainer(s): https://github.com/VernonStow <br>
 License: Zero-Clause BSD <br>
 Note: Removes filters which are redundant with uBlock Origin's default "badware" list. Based on my experence, the maintainer responds quickly to issue reports.
 
+### Enhanced website protection
+Purpose: Block TLDs (Top Level Domains) which are commonly abused by malware. This list is designed to be used _in addition to_ Dandelion Sprout's Anti-Malware List<br>
+Format: uBlock Origin <br>
+Link: https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt <br>
+Repo: https://github.com/yokoffing/filterlists <br>
+Issues: https://github.com/yokoffing/filterlists/issues <br>
+Maintainer(s): https://github.com/yokoffing <br>
+License: Unknown <br>
+
 ## Tracking parameter
 
 ### Actually Legitimate URL Shortener Tool
@@ -71,6 +80,24 @@ Issues: https://github.com/BlackJack8/iOSAdblockList/issues <br>
 Maintainer(s): https://github.com/BlackJack8 <br>
 License: Unknown <br>
 Warning: This list has several known false positives and has not been updated since August 12th 2021 <br>
+
+### Adult Annoyances List
+Purpose: Block annoyances on porn websites <br>
+Format: uBlock Origin <br>
+Link: https://raw.githubusercontent.com/yokoffing/filterlists/main/adult_annoyance_list.txt
+Repo: https://github.com/yokoffing/filterlists <br>
+Issues: https://github.com/yokoffing/filterlists/issues <br>
+Maintainer(s): https://github.com/yokoffing <br>
+License: Unknown <br>
+
+### yokoffing's Annoyance List
+Purpose: Hide annoyances which are not blocked by other major lists <br>
+Format: uBlock Origin <br>
+Link: https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt <br>
+Repo: https://github.com/yokoffing/filterlists <br>
+Issues: https://github.com/yokoffing/filterlists/issues <br>
+Maintainer(s): https://github.com/yokoffing <br>
+License: Unknown <br>
 
 ## Ads
 
