@@ -2,7 +2,6 @@
 
 ## Multi-purpose
 
-
 ## Malware/phishing/scam protection
 
 ### Grayware Blocklist
@@ -22,7 +21,7 @@ Link: https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site
 Repo: https://github.com/yokoffing/filterlists <br>
 Issues: https://github.com/yokoffing/filterlists/issues <br>
 Maintainer(s): https://github.com/yokoffing <br>
-License: Unknown <br>
+License: Attribution 3.0 Unported (CC BY 3.0) (Probably) <br>
 
 ## Tracking parameter
 
@@ -88,7 +87,9 @@ Link: https://raw.githubusercontent.com/yokoffing/filterlists/main/adult_annoyan
 Repo: https://github.com/yokoffing/filterlists <br>
 Issues: https://github.com/yokoffing/filterlists/issues <br>
 Maintainer(s): https://github.com/yokoffing <br>
-License: Unknown <br>
+License:  Attribution 3.0 Unported (CC BY 3.0)  <br>
+Note: Included in [yokoffing's Annoyance List](#yokoffings-annoyance-list)
+
 
 ### yokoffing's Annoyance List
 Purpose: Hide annoyances which are not blocked by other major lists <br>
@@ -97,7 +98,17 @@ Link: https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_lis
 Repo: https://github.com/yokoffing/filterlists <br>
 Issues: https://github.com/yokoffing/filterlists/issues <br>
 Maintainer(s): https://github.com/yokoffing <br>
-License: Unknown <br>
+License:  Attribution 3.0 Unported (CC BY 3.0)  <br>
+
+### Clean Reading Experience
+Purpose: Hide annoyances when reading articles (i.e. "Related articles") <br>
+Format: uBlock Origin <br>
+Link:  https://raw.githubusercontent.com/yokoffing/filterlists/main/clean_reading_experience.txt<br>
+Repo: https://github.com/yokoffing/filterlists <br>
+Issues: https://github.com/yokoffing/filterlists/issues <br>
+Maintainer(s): https://github.com/yokoffing <br>
+License:  Attribution 3.0 Unported (CC BY 3.0)  <br>
+Note: Included in [yokoffing's Annoyance List](#yokoffings-annoyance-list)
 
 ## Ads
 
@@ -131,6 +142,15 @@ Issues: https://github.com/ThuHtooSan/Burmese-Filter-List/issues <br>
 Maintainer(s): https://github.com/ThuHtooSan <br>
 License: Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) <br>
 Note: This list appears unmaintained
+
+### Frellwit's Swedish Filter
+Purpose: Block ads, tracking, malware, scams, and annoyances on Swedish websites <br>
+Format: uBlock Origin <br>
+Link: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Filter.txt <br>
+Repo: https://github.com/lassekongo83/Frellwits-filter-lists <br>
+Issues: https://github.com/lassekongo83/Frellwits-filter-lists/issues <br>
+Maintainer(s): https://github.com/lassekongo83 <br>
+License: GNU General Public License v3.0
 
 ## Specific or unknown purpose
 
