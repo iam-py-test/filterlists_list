@@ -90,7 +90,6 @@ Maintainer(s): https://github.com/yokoffing <br>
 License:  Attribution 3.0 Unported (CC BY 3.0)  <br>
 Note: Included in [yokoffing's Annoyance List](#yokoffings-annoyance-list)
 
-
 ### yokoffing's Annoyance List
 Purpose: Hide annoyances which are not blocked by other major lists <br>
 Format: uBlock Origin <br>
@@ -182,6 +181,15 @@ Issues: https://github.com/wefalltomorrow/YouTube-Like-Dislike-hider-filter-list
 Maintainer(s): https://github.com/wefalltomorrow <br>
 License: Unknown
 
+### URL Shorteners (PeterDaveHello)
+Purpose: Block "URL shorteners" <br>
+Format: Domains <br>
+Link: https://raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list <br>
+Repo: https://github.com/PeterDaveHello/url-shorteners <br>
+Issues: https://github.com/PeterDaveHello/url-shorteners/issues <br>
+Maintainer(s): https://github.com/PeterDaveHello <br>
+License: CC-BY-SA-4.0
+
 ## Malware
 **WARNING**: All of these filterlists are harmful and should not be used
 
@@ -191,3 +199,10 @@ Format: AdBlock Plus <br>
 Link: `https://www.joinhoney.com/whitelist/honey-smart-shopping.txt` <br>
 Source: https://github.com/uBlockOrigin/uAssets/issues/13566 <br>
 License: Unknown <br>
+
+### Slickdeals Smarter Shopping
+Reason: Allowlists trackers and ads <br>
+Format: AdBlock Plus <br>
+Link: `https://slickdeals.net/attachment/extension/allowlist.txt` <br>
+Source: https://github.com/uBlockOrigin/uAssets/blob/master/filters/badlists.txt <br>
+License: Unknown
