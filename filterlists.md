@@ -191,7 +191,7 @@ Maintainer(s): https://github.com/PeterDaveHello <br>
 License: CC-BY-SA-4.0
 
 ## Malware
-**WARNING**: All of these filterlists are harmful and should not be used
+**WARNING**: All of these filterlists are harmful and should not be used. They are shared here for the purpose of informing people
 
 ### Honey Smart Shopping
 Reason: This filterlist allows random trackers and ads <br>
@@ -205,4 +205,11 @@ Reason: Allowlists trackers and ads <br>
 Format: AdBlock Plus <br>
 Link: `https://slickdeals.net/attachment/extension/allowlist.txt` <br>
 Source: https://github.com/uBlockOrigin/uAssets/blob/master/filters/badlists.txt <br>
+License: Unknown
+
+### Top Cash Back Adblock Whitelist
+Reason: Allowlists trackers and ads <br>
+Format: AdBlock Plus <br>
+Link: `https://www.topcashback.co.uk/misc/AdBlockWhiteList.aspx` <br>
+Source: https://github.com/uBlockOrigin/uAssets/issues/17202  <br>
 License: Unknown
